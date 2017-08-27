@@ -1,0 +1,13 @@
+David Hoang CS 202 Assignment 1
+Code Review for 18.16
+
+For this assignment the userinput in the form of a string will always be converted into an array of characters.
+
+Then the method will tally up how many uppercase letters there are. 
+
+To my knowledge even if the user enters in a non alphabet character the program will still function properly.
+
+In this code review perhaps in the next iteration of this program we can do some error handling checks to make sure that all userinput is 
+an alphabet letter. AKA no special characters or numbers for example because they cannot be classified as uppercase or not.
+
+However, this might not be the true requirement of the problem. This is an assumption.
